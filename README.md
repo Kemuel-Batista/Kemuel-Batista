@@ -68,3 +68,15 @@ I´m available to discuss collaboration opportunities and share more about my pr
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
+<hr/>
+
+## 📊 Github Stats and Activity
+
+<div>
+<img alt="Kemuel Batista's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Kemuel-Batista&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866%22%20height=%22192px" height="192px"/>
+
+<img alt="Kemuel Batista's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Kemuel-Batista&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+</div>
+<br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
