@@ -4,6 +4,24 @@
 
 ![Capa](https://github.com/Kemuel-Batista/Kemuel-Batista/assets/62821098/2cf2d7a2-2fb4-4a99-ad85-2691bef9cbf0)
 
+<a target="_blank" href="#"><img alt="Linkedin" src="https://skillicons.dev/icons?i=react"></a>
+<a target="_blank" href="#"><img alt="Linkedin" src="https://skillicons.dev/icons?i=nodejs"></a>
+<a target="_blank" href="#"><img alt="Linkedin" src="https://skillicons.dev/icons?i=js"></a>
+<a target="_blank" href="#"><img alt="Linkedin" src="https://skillicons.dev/icons?i=ts"></a>
+<a target="_blank" href="#"><img alt="Linkedin" src="https://skillicons.dev/icons?i=prisma"></a>
+<a target="_blank" href="https://www.linkedin.com/in/kemuel-batista-141970151/"><img alt="Linkedin" src="https://skillicons.dev/icons?i=linkedin"></a>
+<a target="_blank" href="#"><img alt="Linkedin" src="https://skillicons.dev/icons?i=vscode"></a>
+<a target="_blank" href="#"><img alt="Linkedin" src="https://skillicons.dev/icons?i=github"></a>
+<a target="_blank" href="#"><img alt="Linkedin" src="https://skillicons.dev/icons?i=aws"></a>
+<a target="_blank" href="#"><img alt="Linkedin" src="https://skillicons.dev/icons?i=gcp"></a>
+<a target="_blank" href="#"><img alt="Linkedin" src="https://skillicons.dev/icons?i=heroku"></a>
+<a target="_blank" href="#"><img alt="Linkedin" src="https://skillicons.dev/icons?i=linux"></a>
+<a target="_blank" href="#"><img alt="Linkedin" src="https://skillicons.dev/icons?i=nginx"></a>
+<a target="_blank" href="#"><img alt="Linkedin" src="https://skillicons.dev/icons?i=postgres"></a>
+<a target="_blank" href="#"><img alt="Linkedin" src="https://skillicons.dev/icons?i=pr"></a>
+<a target="_blank" href="#"><img alt="Linkedin" src="https://skillicons.dev/icons?i=figma"></a>
+<a href="#"><img alt="Discord" src="https://skillicons.dev/icons?i=discord"></a>
+
 [![Linkedin Badge](https://img.shields.io/badge/kemuelbatista-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kemuel-batista-141970151/)](https://www.linkedin.com/in/kemuel-batista-141970151/) 
 [![GitHub followers](https://img.shields.io/github/followers/Kemuel-Batista?label=Follow&style=social)](https://github.com/Kemuel-Batista/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-kemuellima20@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:kemuellima20@gmail.com)
