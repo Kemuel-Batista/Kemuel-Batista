@@ -10,7 +10,7 @@
 
 ## About me
 
-I'm a full stack web developer with 2 years of experience and multiple personal experiences.
+I'm a full stack web developer with 3 years of experience and multiple personal experiences.
 
 I started my programming career in 2018 while I was still in high school, which was integrated with technical education. I graduated in Systems Development Technician.
 
